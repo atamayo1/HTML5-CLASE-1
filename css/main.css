@@ -1,0 +1,21 @@
+#wrapper{
+  width: 600px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+#encabezado{
+  height: 50px;
+  background-color: green;
+  text-align: center;
+}
+#articulo{
+  height: 250px;
+  background-color: pink;
+  text-align: center;
+}
+#piePagina{
+  height: 50px;
+  background-color: orange;
+  text-align: center;
+  color: white;
+}
